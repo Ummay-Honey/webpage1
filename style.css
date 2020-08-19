@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color: orange;
+}
+.div-one{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+.section-one{
+    background-image: url('../web/background.png');
+    background-repeat: no-repeat;
+}
+.section-one{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.sectio-two{
+    margin: 5%;
+    float: right;
+    padding-left: 50%;
+    height: 300px;
+    padding-bottom: 350px;
+
+}
+
+.section-two{
+    background-image: url('../web/backgroundtwo.png');
+    background-repeat: no-repeat;
+    margin-top: 5%;
+    height: 600px;
+    background-position: right;
+}
+.div-two img{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    margin-left: 2%;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 5px;   
+    
+}
+
+.p{
+    padding-bottom: 40px;
+    
+}
+
+
+
+.experience-area{
+    background-image: url('../web/back-three.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 600px;
+    padding-bottom: 350px;
+     
+    
+    
+}
+.experience-area div{
+    box-shadow: 2px 2px 40px gray;
+    height: 300px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.experience-area h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800; 
+    padding: 5px;
+    margin-top: 20%;
+    
+}
+.experience-area h2{
+    font-size: 20px;
+    font-weight: 600; 
+    padding: 2%;
+
+}
+.experience-area h3{
+    color:orange; 
+    font-size: 20px;
+    font-weight: 500;
+
+}
+#full-stack{
+   background-color: #ffffff;
+   border-left: 7px solid;
+   border-image: linear-gradient(blue, cyan);
+   border-image-slice: 1;
+  
+}
+#wordpress{
+     background-color: #ffffff;
+     border-left: 7px solid;
+     border-image: linear-gradient(lightsalmon, tomato);
+     border-image-slice: 1;
+     
+}
+.div-four{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 50; 
+    padding: 5%;
+    margin-top: 10px;
+}
+
+   
